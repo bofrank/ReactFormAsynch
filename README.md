@@ -1,6 +1,6 @@
 # ReactFormAsynch
 
-A lightweight React library for handling asynchronous form validation and submission with ease.
+A lightweight React library for asynchronous form validation and submission.
 
 ## Features
 
